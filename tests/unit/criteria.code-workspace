@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../src/decision_tree_ai/criteria"
+		},
+		{
+			"path": "../../src/decision_tree_ai/core"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "decision_tree_ai"
+version = "0.1.0"
+description = "A custom decision tree implementation in Python"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
